@@ -62,7 +62,6 @@ GEM
     mocha (1.0.0)
       metaclass (~> 0.0.1)
     multi_json (1.9.2)
-    nifty-generators (0.4.6)
     oauth (0.4.7)
     omniauth (1.2.1)
       hashie (>= 1.2, < 3)
@@ -137,7 +136,6 @@ DEPENDENCIES
   jbuilder (~> 1.2)
   jquery-rails
   mocha
-  nifty-generators
   omniauth
   omniauth-twitter
   rails (= 4.0.3)
